@@ -1,0 +1,776 @@
+Build a complete, premium, modern and highly attractive website for a real restaurant called Pizzeria Cafe in Ghaziabad, Uttar Pradesh.
+
+I have uploaded:
+
+1. The current Pizzeria Cafe promotional/branding image.
+2. The complete menu image.
+3. Multiple real photos of the cafe interior.
+
+Use these uploaded images as the main visual reference and source of truth.
+
+Do NOT create a generic restaurant template. The website should feel specifically designed for this actual Pizzeria Cafe.
+
+---
+
+1. BUSINESS INFORMATION
+
+Business Name:
+Pizzeria Cafe
+
+Tagline:
+The Real Taste of Happiness
+
+Location:
+Shop No. 4, Opp. Rajeev Arora Provision Store, Near Auto Stand, Ghukna, Ghaziabad, Uttar Pradesh
+
+Google Maps destination:
+Pizzeria Cafe, Tyagi Market, Bhim Nagar, Ghukna, Ghaziabad, Uttar Pradesh 201003
+
+Phone:
+9310912659
+
+Opening Hours:
+10:00 AM – 10:00 PM
+
+The restaurant is vegetarian, based on the uploaded branding/menu.
+
+Important:
+Use the actual information visible in the uploaded images. Do not invent business information.
+
+---
+
+2. OVERALL WEBSITE FEEL
+
+Create a website that immediately feels like a modern pizza/cafe website.
+
+The design should be:
+
+- Premium
+- Modern
+- Youthful
+- Food-focused
+- Colorful but not messy
+- Highly visual
+- Mobile-first
+- Fast
+- Professional
+- Interactive
+- Easy to use
+
+The website should make a visitor think:
+
+"This cafe looks really good. I want to visit/order from here."
+
+Do NOT make it look like a basic college project.
+
+---
+
+3. DESIGN LANGUAGE
+
+Take inspiration from the uploaded Pizzeria Cafe branding.
+
+Use a dark restaurant-style background with warm food colors.
+
+Preferred visual palette:
+
+- Deep black / charcoal
+- Warm orange
+- Pizza red
+- Golden yellow
+- Cream/white
+- Small amounts of green for vegetarian indicators
+
+Use glowing orange/yellow accents where appropriate.
+
+Use modern typography with a slightly playful food/restaurant feel.
+
+Use rounded cards, subtle shadows, glass effects where appropriate, and premium spacing.
+
+Do not overuse gradients.
+
+---
+
+4. HERO SECTION
+
+Create a visually impressive full-screen hero section.
+
+Use one of the uploaded real cafe photos and/or food imagery as the hero background.
+
+Hero content:
+
+Pizzeria Cafe
+
+The Real Taste of Happiness
+
+Supporting text:
+
+Fresh Ingredients • Great Taste • Happy You
+
+Add two main buttons:
+
+🍕 Explore Menu
+
+📲 Order on WhatsApp
+
+Add a third button:
+
+📍 Get Directions
+
+Add subtle animated food-related elements around the hero, such as small floating pizza/pepper/cheese shapes if they improve the design.
+
+Do not make the animation distracting.
+
+---
+
+5. NAVIGATION BAR
+
+Create a premium sticky navbar.
+
+Logo:
+Pizzeria Cafe
+
+Navigation:
+
+- Home
+- About
+- Menu
+- Offers
+- Gallery
+- Visit Us
+- Contact
+
+Right side:
+
+Order Now
+
+On mobile, convert navigation into a clean hamburger menu.
+
+Navbar should become slightly smaller/blurred when scrolling.
+
+---
+
+6. QUICK HIGHLIGHTS
+
+Immediately below the hero, create four attractive highlight cards:
+
+🌱 100% Veg
+
+Fresh vegetarian food.
+
+❤️ Made With Love
+
+Food prepared with passion.
+
+🍕 Fresh Ingredients
+
+Great taste with fresh ingredients.
+
+🛵 Fast & Safe Delivery
+
+Delivery-focused service based on the uploaded branding.
+
+Animate these cards when they enter the screen.
+
+---
+
+7. ABOUT PIZZERIA CAFE
+
+Create a beautiful About section.
+
+Use one of the actual cafe interior photos.
+
+Heading:
+
+More Than Just Pizza
+
+Explain that Pizzeria Cafe is a welcoming local cafe in Ghukna, Ghaziabad, serving pizzas and a variety of vegetarian food in a colorful and comfortable environment.
+
+Keep the copy natural and attractive.
+
+Do not invent history, awards, years of establishment or claims that are not provided.
+
+Add a button:
+
+Explore Our Menu
+
+---
+
+8. REAL CAFE EXPERIENCE
+
+Create a section showing the actual interior photos uploaded by me.
+
+Heading:
+
+Come Hungry. Leave Happy. ❤️
+
+Use the real cafe photos.
+
+Create a modern collage layout rather than simply displaying photos in a boring grid.
+
+Include subtle zoom-on-hover effects.
+
+On mobile, turn the gallery into a swipe-friendly layout.
+
+---
+
+9. MENU — MOST IMPORTANT SECTION
+
+Create a complete interactive digital menu.
+
+I have uploaded the current menu image.
+
+Read the menu from the uploaded image carefully and recreate the menu as actual HTML cards/data.
+
+DO NOT simply put the menu image on the page.
+
+DO NOT invent prices.
+
+DO NOT change item names.
+
+DO NOT change the available sizes/prices.
+
+The uploaded menu is the source of truth.
+
+Create category navigation.
+
+Categories visible in the menu include items such as:
+
+- Pan Pizza
+- Veg Lover
+- Veg Special
+- Veg Feast Pizza
+- Double Topping Pizza
+- Extra Cheese
+- Pasta
+- Fresh Fries
+- Side Orders
+- Burgers
+- More Snacks
+- Set of Four
+- Meal for Family
+- Combos
+
+If the uploaded menu contains additional categories, include them too.
+
+---
+
+10. MENU UI
+
+Make the menu feel like a modern food ordering application.
+
+Each item should appear as a beautiful card.
+
+Card can contain:
+
+- Food image
+- Item name
+- Description if available
+- Vegetarian badge
+- Price
+- Size options where applicable
+- Add button
+
+For pizza items with multiple sizes, clearly show:
+
+Regular
+Medium
+Large
+
+with their exact prices from the uploaded menu.
+
+Use category tabs/chips at the top.
+
+On mobile, allow horizontal scrolling of categories.
+
+---
+
+11. MENU SEARCH
+
+Add a search box:
+
+🔍 Search your favourite food...
+
+Search should instantly filter menu items.
+
+Example:
+
+Searching "pizza" shows pizzas.
+
+Searching "burger" shows burgers.
+
+Searching "pasta" shows pasta.
+
+Add a "No results found" state if needed.
+
+---
+
+12. FOOD ITEM INTERACTION
+
+When the user clicks a menu item, open a beautiful modal/bottom sheet showing:
+
+- Larger food image
+- Item name
+- Description
+- Price/size
+- Vegetarian badge
+- Add to Order button
+
+Keep this functionality lightweight.
+
+---
+
+13. ORDER SYSTEM
+
+Create a simple WhatsApp-based ordering flow.
+
+Do NOT create a fake payment gateway.
+
+When the customer clicks:
+
+Order on WhatsApp
+
+open WhatsApp with a pre-filled message such as:
+
+"Hi Pizzeria Cafe, I would like to place an order."
+
+If a customer clicks "Add to Order", allow them to build a simple order list/cart.
+
+The cart should show:
+
+- Selected items
+- Quantity
+- Price
+- Total
+
+Then provide:
+
+Order via WhatsApp
+
+The WhatsApp message should automatically include the selected items and total.
+
+Use the cafe's phone number:
+
+9310912659
+
+Make sure the WhatsApp link is properly formatted for India.
+
+---
+
+14. SPECIAL OFFERS
+
+Create a highly attractive Offers section.
+
+The uploaded menu/branding shows:
+
+BUY 1 GET 1 FREE
+
+and the offer:
+
+BUY 1 GET 1 FREE ON VEG SPECIAL & VEG FEAST PIZZA ON TUESDAY & THURSDAY
+
+Display this prominently.
+
+Create an animated promotional card:
+
+🔥 BUY 1 GET 1 FREE
+
+Tuesday & Thursday
+
+On Veg Special & Veg Feast Pizza
+
+Only use offer information visible in the uploaded material.
+
+Also recreate the combo offers shown in the menu.
+
+---
+
+15. FREE HOME DELIVERY
+
+Create a dedicated promotional section:
+
+FREE HOME DELIVERY 🛵
+
+Show the minimum order requirement exactly as shown in the uploaded menu/branding.
+
+Make this section visually attractive with a delivery scooter/food visual.
+
+---
+
+16. FOOD GALLERY
+
+Create a beautiful gallery.
+
+Use the uploaded real cafe photographs.
+
+Also use appropriate food images for pizza, burgers, pasta, fries etc. where necessary.
+
+Priority should be given to the real uploaded cafe photos.
+
+Gallery features:
+
+- Masonry/grid layout
+- Hover animation
+- Image zoom
+- Fullscreen lightbox
+- Mobile swipe support
+
+Categories can include:
+
+Cafe
+Pizza
+Food
+Ambience
+
+If an image is not actually available, do not pretend it is a photo of this specific cafe.
+
+---
+
+17. WHY VISIT US
+
+Create an attractive section with cards:
+
+🍕 Fresh Food
+
+🌱 Vegetarian
+
+❤️ Made With Love
+
+🏠 Comfortable Ambience
+
+🛵 Delivery Available
+
+📍 Easy to Find
+
+Keep the wording simple and genuine.
+
+---
+
+18. LOCATION SECTION
+
+Create a beautiful "Find Us" section.
+
+Display:
+
+Pizzeria Cafe
+
+Shop No. 4, Opp. Rajeev Arora Provision Store, Near Auto Stand, Ghukna, Ghaziabad, Uttar Pradesh
+
+Phone:
+
+9310912659
+
+Opening Hours:
+
+10:00 AM – 10:00 PM
+
+Add a large button:
+
+📍 Get Directions
+
+The button should open the Google Maps location for Pizzeria Cafe in Ghukna, Ghaziabad.
+
+Also provide a Google Maps embed if technically possible.
+
+---
+
+19. CONTACT SECTION
+
+Create:
+
+Call Us
+
+9310912659
+
+Button:
+Call Now
+
+WhatsApp
+
+Button:
+Chat on WhatsApp
+
+Location
+
+Button:
+Get Directions
+
+Social Media
+
+Add Instagram/Facebook/WhatsApp icons.
+
+Only use real social-media URLs if they are provided.
+
+Do NOT invent usernames or links.
+
+---
+
+20. MOBILE EXPERIENCE
+
+This is extremely important.
+
+Most customers will probably open this website on a phone.
+
+Make the mobile experience excellent.
+
+On mobile:
+
+- Large readable menu
+- Easy category scrolling
+- Sticky Order button
+- Floating WhatsApp button
+- Call button
+- Easy Google Maps button
+- Fast image loading
+- No horizontal scrolling
+- Large touch targets
+- Smooth scrolling
+- Proper spacing
+
+Consider adding a fixed bottom mobile bar:
+
+🍕 Menu | 🛒 Order | 📲 WhatsApp | 📍 Directions
+
+Make sure it does not cover important content.
+
+---
+
+21. ANIMATIONS
+
+Use tasteful modern animations:
+
+- Hero entrance animation
+- Scroll reveal
+- Food card hover
+- Image zoom
+- Button hover
+- Offer animation
+- Smooth section transitions
+- Menu filtering animation
+- Cart animation
+
+Keep animations smooth and lightweight.
+
+Do NOT make the website feel like an animation demo.
+
+---
+
+22. FOOD-THEMED MICRO INTERACTIONS
+
+Add small details that make the website memorable.
+
+For example:
+
+- Pizza slice loading animation
+- Tiny floating food icons
+- Animated cheese/pepper accents
+- Button hover effects
+- Food cards slightly lifting on hover
+- "Freshly made" badges
+- Subtle glowing orange highlights
+
+These should remain professional.
+
+---
+
+23. FOOTER
+
+Create a premium footer.
+
+Include:
+
+Pizzeria Cafe
+
+The Real Taste of Happiness
+
+Quick Links:
+
+Home
+About
+Menu
+Offers
+Gallery
+Visit Us
+Contact
+
+Contact:
+
+9310912659
+
+Opening Hours:
+
+10:00 AM – 10:00 PM
+
+Address:
+
+Shop No. 4, Opp. Rajeev Arora Provision Store, Near Auto Stand, Ghukna, Ghaziabad, Uttar Pradesh
+
+Add social icons.
+
+Add:
+
+© Pizzeria Cafe. All Rights Reserved.
+
+---
+
+24. SEO
+
+Make the website SEO-ready.
+
+Page title:
+
+Pizzeria Cafe | Pizza, Burgers & More in Ghukna, Ghaziabad
+
+Meta description should naturally mention:
+
+Pizzeria Cafe, Ghukna, Ghaziabad, vegetarian pizza, burgers, pasta, snacks, delivery and cafe.
+
+Use:
+
+- Proper H1
+- H2/H3 hierarchy
+- Image alt text
+- Local business structured data
+- Restaurant schema where appropriate
+- Open Graph tags
+- Favicon
+- Mobile viewport
+- Clean URLs
+
+---
+
+25. PERFORMANCE
+
+The website must be fast.
+
+Use:
+
+- Lazy loading
+- Optimized images
+- Responsive image sizes
+- Lightweight animations
+- Minimal unnecessary dependencies
+- Efficient React components if React is used
+
+Avoid huge libraries when they are unnecessary.
+
+---
+
+26. CODE STRUCTURE
+
+Keep the project clean and maintainable.
+
+Create a central data/config file for:
+
+- Cafe name
+- Phone
+- WhatsApp
+- Address
+- Opening hours
+- Menu categories
+- Menu items
+- Prices
+- Offers
+- Social links
+- Gallery images
+
+This way the owner can easily update the website later.
+
+Do not duplicate business information throughout the code.
+
+---
+
+27. IMPORTANT IMAGE RULE
+
+The uploaded cafe photos are REAL photos of this cafe.
+
+Use them in the website.
+
+Do not heavily modify them.
+
+Do not replace them with random stock photos where a real cafe photo is available.
+
+For menu food images, use suitable food images only when necessary, but make it clear that they are illustrative if they are not actual photographs of the cafe's dishes.
+
+---
+
+28. DESIGN QUALITY
+
+The final design should feel similar in quality to a professional restaurant website.
+
+Think:
+
+Modern Pizza Restaurant + Premium Cafe + Food Ordering Experience
+
+It should be visually impressive but still easy to use.
+
+Avoid:
+
+- Generic templates
+- Excessive text
+- Tiny fonts
+- Boring white pages
+- Huge paragraphs
+- Clutter
+- Excessive animations
+- Fake reviews
+- Fake awards
+- Fake customer numbers
+- Fake testimonials
+- Fake business claims
+
+---
+
+29. IMPORTANT MENU ACCURACY RULE
+
+The uploaded menu image is the source of truth.
+
+Before finishing:
+
+Compare every menu item and price with the uploaded menu.
+
+If the text in the image is difficult to read, do NOT guess.
+
+Keep uncertain information clearly marked for manual editing rather than inventing it.
+
+---
+
+30. FINAL TESTING
+
+Before declaring the website complete:
+
+1. Test every navigation link.
+2. Test every menu category.
+3. Test menu search.
+4. Test item modal.
+5. Test cart.
+6. Test WhatsApp ordering.
+7. Test Call Now.
+8. Test Google Maps.
+9. Test gallery/lightbox.
+10. Test mobile navigation.
+11. Test mobile bottom navigation.
+12. Test desktop layout.
+13. Test tablet layout.
+14. Check for horizontal scrolling.
+15. Check console for errors.
+16. Remove all placeholder text.
+17. Remove all dummy links.
+18. Make sure all uploaded images are correctly used.
+19. Verify menu prices against the uploaded menu.
+20. Verify address, phone number and opening hours.
+
+---
+
+FINAL INSTRUCTION
+
+Do not stop after creating a basic landing page.
+
+Build the COMPLETE website described above.
+
+The final website should be:
+
+Premium + Interactive + Food-focused + Mobile-friendly + Fast + Professional + Easy to order from.
+
+Most importantly, make the website visually connected to the actual Pizzeria Cafe shown in my uploaded photos and menu.
+
+Make it look like a real business website that can be shared directly with customers and linked to the cafe's Google Business Profile.

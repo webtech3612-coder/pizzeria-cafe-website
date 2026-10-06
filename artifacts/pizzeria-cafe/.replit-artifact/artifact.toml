@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Pizzeria Cafe"
+description = "The official customer website for Pizzeria Cafe in Ghukna, Ghaziabad, with its vegetarian menu, cafe gallery, offers, location details, and WhatsApp ordering."
+version = "1.0.0"
+id = "artifacts/pizzeria-cafe"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 23232
+
+[services.development]
+run = "pnpm --filter @workspace/pizzeria-cafe run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/pizzeria-cafe", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/pizzeria-cafe/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "23232"
+BASE_PATH = "/"
